@@ -1,0 +1,3 @@
+posix mqueue:
+ mkdir /dev/mqueue
+ mount -t mqueue none /dev/mqueue
